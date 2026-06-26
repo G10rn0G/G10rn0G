@@ -1,7 +1,12 @@
-# 🌟 ZA WARUDO! (Welcome to my Profile!!)
+<div align="center">
 
-![Obito GIF](https://media.tenor.com/2s_r4p0lX1MAAAAi/obitoszn-gif.gif)
-![Giorno GIF](https://media.tenor.com/S9sJ15F43qQAAAAC/giorno-pose-hd-jojos-bizarre-adventure.gif)
+<img src="URL_TO_YOUR_OBITO_GIF" width="200px">
+<img src="URL_TO_YOUR_GIORNO_GIF" width="200px">
+<img src="URL_TO_YOUR_GIORNO_PLUSH_IMAGE" width="200px">
+
+</div>
+
+# 🌟 ZA WARUDO! (Welcome to my Profile!!)
 
 Welcome to my corner of the digital world. I'm a fan of all things bizarre!
 
