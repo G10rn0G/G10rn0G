@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="URL_TO_YOUR_OBITO_GIF" width="200px">
-<img src="URL_TO_YOUR_GIORNO_GIF" width="200px">
-<img src="URL_TO_YOUR_GIORNO_PLUSH_IMAGE" width="200px">
+<img src="[https://raw.githubusercontent.com/G10rn0G/We_Love_Morioucho/main/your-file-name.gif]
 
 </div>
 
