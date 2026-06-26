@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 ZA WARUDO! (Welcome to my Profile!!) <div align="center">
+  <img src="https://media.tenor.com/2s_r4p0lX1MAAAAi/obitoszn-gif.gif" width="200px">
+  <img src="https://media.tenor.com/S9sJ15F43qQAAAAC/giorno-pose-hd-jojos-bizarre-adventure.gif" width="200px">
+</div>
 
-<!--
-**G10rn0G/G10rn0G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the digital world. I'm a fan of all things bizarre!
 
-Here are some ideas to get you started:
+## 🎭 About Me
+* **Stand User:** [Tamarisk!/Poll/Gio]
+* **Favorite Part:** [Vento Aureo! (Golden Wind)]
+* **Current Obsession:** [Pony Town, JJBA, Creating Stands, Creating 'Bizzare' Oc's!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ My "Stand" Stats
+* **Typing Speed:** 41 WPM (and rising!)
+* **Interests:** Art, Creative Writing, and Freshwater Ecosystems.
+
+---*Stay Bizarre!* 🌈 <img src="[https://media.tenor.com/2s_r4p0lX1MAAAAi/obitoszn-gif.gif](https://media.tenor.com/2s_r4p0lX1MAAAAi/obitoszn-gif.gif)" width="300px">
