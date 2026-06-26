@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/G10rn0G/We_Love_Morioucho/main/your-file-name.gif]
+<img src="PASTE_RAW_URL_FOR_OBITO_GIF" width="200px">
+<img src="PASTE_RAW_URL_FOR_GIORNO_GIF" width="200px">
+<img src="PASTE_RAW_URL_FOR_GIORNO_PLUSH_IMAGE" width="200px">
 
 </div>
 
@@ -8,7 +10,7 @@
 
 Welcome to my corner of the digital world. I'm a fan of all things bizarre!
 
-## 🎭 About Me
+##  About Me
 * **Stand User:** [Tamarisk!/Poll/Gio]
 * **Favorite Part:** [Vento Aureo! (Golden Wind)]
 * **Current Obsession:** [Pony Town, JJBA, Creating Stands, Creating 'Bizzare' Oc's!]
